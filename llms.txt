@@ -1,2 +1,25 @@
 # Glencoe Plumbing
-HVAC services in Ontario.
+
+> Glencoe Plumbing is a local HVAC company serving Glencoe, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 761-2123  |  Email: contact@glencoeplumbing.ca  |  Website: https://glencoeplumbing.ca
+
+## Key pages
+
+- [Home](https://glencoeplumbing.ca/): Glencoe Plumbing homepage with service overview and FAQ
+- [About](https://glencoeplumbing.ca/about/): About the company and service area
+- [Contact](https://glencoeplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://glencoeplumbing.ca/services/water-heaters/): Water Heaters in Glencoe, Ontario
+- [Drain Cleaning](https://glencoeplumbing.ca/services/drain-cleaning/): Drain Cleaning in Glencoe, Ontario
+- [Repiping](https://glencoeplumbing.ca/services/repiping/): Repiping in Glencoe, Ontario
+- [Fixtures & Toilets](https://glencoeplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Glencoe, Ontario
+- [Leak Detection & Repair](https://glencoeplumbing.ca/services/leak-detection/): Leak Detection & Repair in Glencoe, Ontario
+- [Sump Pumps & Backwater](https://glencoeplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Glencoe, Ontario
+- [Water Softeners & Filtration](https://glencoeplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Glencoe, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Glencoe are answered on the homepage.
